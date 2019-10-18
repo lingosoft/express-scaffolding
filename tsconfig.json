@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "sourceMap": true,
+      "baseUrl": "./",
+      "paths": {
+        "app/*": ["src/app/*"],
+        "logger": ["src/logger/index"]
+      }
+    },
+}
